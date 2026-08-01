@@ -1,7 +1,26 @@
 aid: robeaute
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/robeaute.png
 name: Robeaute
-description: Robeaute is a company surfaced as a portfolio company of kindred-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Robeauté is a Paris-based medical technology company, founded in 2017 by
+  Bertrand Duplat and Joana Cartocci, developing what it calls the world's first microrobotic
+  platform for the brain. Its rice-grain-sized robots are designed to navigate brain
+  tissue to diagnose, treat, and monitor neurological disease, aiming to make neurosurgery
+  safer and less invasive. The device is pre-market — it has not received FDA clearance
+  or CE marking and is not approved for clinical use or commercial sale. Robeauté has
+  raised over €40M, including a $28M Series A led by Plural, Cherry Ventures, Kindred
+  Ventures, and Brainlab, and operates from Paris with a San Francisco office opened
+  in 2026. The company publishes no public API, developer platform, or SDK.
 url: https://raw.githubusercontent.com/api-evangelist/robeaute/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Medical Technology
+- Surgical Robotics
+- Microrobotics
+- Neurosurgery
+- Healthcare
+- Deeptech
+- Medical Devices
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +49,24 @@ maintainers:
 common:
 - type: Website
   url: https://robeaute.com/
+- type: About
+  url: https://robeaute.com/company
+- type: Blog
+  url: https://robeaute.com/news-research
+- type: Careers
+  url: https://robeaute.com/careers
+- type: PrivacyPolicy
+  url: https://robeaute.com/privacy-policy
+- type: TermsOfService
+  url: https://robeaute.com/terms-conditions
+- type: LinkedIn
+  url: https://www.linkedin.com/company/robeaut%C3%A9
+- type: DomainSecurity
+  url: security/robeaute-domain-security.yml
+- type: WellKnown
+  url: well-known/robeaute-well-known.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
