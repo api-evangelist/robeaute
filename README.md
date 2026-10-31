@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Robeaute is a company surfaced as a portfolio company of kindred-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Robeauté is a Paris-based medical technology company, founded in 2017 by Bertrand Duplat and Joana Cartocci, developing what it calls the world's first microrobotic platform for the brain. Its rice-grain-sized robots are designed to navigate brain tissue to diagnose, treat, and monitor neurological disease, aiming to make neurosurgery safer and less invasive. The device is pre-market — it has not received FDA clearance or CE marking and is not approved for clinical use or commercial sale. Robeauté has raised over €40M, including a $28M Series A led by Plural, Cherry Ventures, Kindred Ventures, and Brainlab, and operates from Paris with a San Francisco office opened in 2026. The company publishes no public API, developer platform, or SDK.
 
-Backed by: kindred-ventures — https://robeaute.com/
+**Areas:** Company · Medical Technology · Surgical Robotics · Micro-Robotics · Neurosurgery · Healthcare · Deep Tech · Medical Devices
+
+## Robeaute on APIs.io
+
+Everything profiled for Robeaute is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/robeaute/](https://apis.io/providers/robeaute/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Robeaute Domain Security](https://apis.io/security/robeaute/robeaute-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://robeaute.com/)
+- [Blog](https://robeaute.com/news-research)
+- [Terms of service](https://robeaute.com/terms-conditions)
+- [Privacy policy](https://robeaute.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/robeaute/](https://apis.io/providers/robeaute/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Robeaute: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/robeaute/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
